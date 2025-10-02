@@ -77,10 +77,6 @@ namespace ciklusok3
                 for (int i = 0; i < nagyobb90Lista.Count; i++)
                 {
                     Console.Write(nagyobb90Lista[i]);
-                    if (i < nagyobb90Lista.Count - 1)
-                    {
-                        Console.Write(", ");
-                    }
                 }
                 Console.WriteLine();
             }

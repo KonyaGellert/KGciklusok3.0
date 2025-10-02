@@ -1,0 +1,7 @@
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\bin\Debug\ciklusok3.exe.config
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\bin\Debug\ciklusok3.exe
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\bin\Debug\ciklusok3.pdb
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\obj\Debug\ciklusok3.csproj.AssemblyReference.cache
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\obj\Debug\ciklusok3.csproj.CoreCompileInputs.cache
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\obj\Debug\ciklusok3.exe
+C:\Users\konyag\source\repos\ciklusok3\ciklusok3\obj\Debug\ciklusok3.pdb
