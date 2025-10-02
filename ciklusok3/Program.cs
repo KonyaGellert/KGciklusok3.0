@@ -74,11 +74,7 @@ namespace ciklusok3
             if (dbNagyobb90 > 0)
             {
                 Console.Write("90-nél nagyobb számok: ");
-                for (int i = 0; i < nagyobb90Lista.Count; i++)
-                {
-                    Console.Write(nagyobb90Lista[i]);
-                }
-                Console.WriteLine();
+                Console.WriteLine(string.Join(", ", nagyobb90Lista));
             }
 
 
